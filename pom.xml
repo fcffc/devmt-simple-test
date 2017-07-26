@@ -5,7 +5,7 @@
 	<artifactId>devmt-simple-test</artifactId>
 	<version>0.0.1</version>
 	<name>devmt-simple-test</name>
-	<description>Java, Cucumber, JUnit e automacao de teste com Selenium Framework</description>
+	<description>Java, Cucumber, JUnit e automacao de teste com Selenium Framework.</description>
 
 	<repositories>
 		<repository>
